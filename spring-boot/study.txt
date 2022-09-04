@@ -1,1 +1,1 @@
-Spring boot를 공부하는 파일입니다.
+Spring boot를 공부하는 공간입니다.
