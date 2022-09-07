@@ -1,0 +1,1 @@
+Junit을 이용한 test code를 작성하는 예제
