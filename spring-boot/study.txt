@@ -1,1 +1,4 @@
 Spring boot를 공부하는 공간입니다.
+
+--- Spring Boot Data JPA ---
+https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.query-methods.query-creation
